@@ -129,8 +129,13 @@ hr.card-separator {
 }
 
 .card-creator > img {
-  padding: 0 16px 0 0;
   height: 1.75em;
+  border: 1px solid white;
+  border-radius: 1em;
+}
+
+.card-creator-name {
+  padding: 0 0 0 1em;
 }
 
 .creator-name {
